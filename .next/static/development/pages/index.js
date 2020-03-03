@@ -59,7 +59,7 @@ var _jsxFileName = "/Users/yixuan/Development/code/nextjs-project/pages/index.js
 
 /***/ }),
 
-/***/ 0:
+/***/ 1:
 /*!*******************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2Fyixuan%2FDevelopment%2Fcode%2Fnextjs-project%2Fpages%2Findex.js ***!
   \*******************************************************************************************************************************************/
@@ -82,5 +82,5 @@ module.exports = dll_2e29b3ddf0a4859f688e;
 
 /***/ })
 
-},[[0,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map
